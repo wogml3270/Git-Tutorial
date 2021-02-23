@@ -8,7 +8,7 @@ var scroll = function(){
         winH = 0,
         time = false;
 
-    $(document).ready(function(){
+    JQuery(document).ready(function(){
         init();
         initEvent();
     });
