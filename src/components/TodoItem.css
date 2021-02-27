@@ -27,8 +27,11 @@
     font-weight: 600;
     opacity: 0;
 }
+.remove:hover {
+    font-weight:900;
+}
 .todo-text{
-    flex: 1; /*체크, 엑스를 제외한 공각 다 채우기*/
+    flex: 1; /*체크, 엑스를 제외한 공간 다 채우기*/
     word-break: break-all;
 }
 .checked {
